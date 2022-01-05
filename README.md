@@ -1,17 +1,19 @@
 # Share Your Codes - Alura Challange
 
+<h2>Site: <a href="https://shareyourcodes.com/comunidade">https://shareyourcodes.com/comunidade</a><h2>
+
 <ul>
     <li>
         <a href="funcionalidades.md" target="_blank">Funcionalidades</a>
     </li>
     <li>
-        <a href="" target="_blank">Laravel API</a>
+        <a href="https://github.com/jaum1234/editor-de-codigo" target="_blank">Laravel API</a>
     </li>
     <li>
-        <a href="" target="_blank">VueJS Interface</a>
+        <a href="https://github.com/jaum1234/share-your-codes-vuejs" target="_blank">VueJS Interface</a>
     </li>
     <li>
-        <a href="" target="_blank">Projeto Full Laravel</a>
+        <a href="#" target="_blank">Projeto Full Laravel</a>
     </li>
 </ul>
 
@@ -25,6 +27,16 @@
 <a href="https://www.linkedin.com/in/joao-v%C3%ADtor-de-souza-coura-b435381a9/">Linkedin</a>
 <br>
 <a href="mailto:joaovitorsouzacoura@gmail.com">joaovitorsouzacoura@gmail.com</a>
+
+## Tecnologia utilizadas
+
+- Laravel
+- VueJS
+- AWS
+- Bootstrap
+- jQuery
+- MySQL
+- Sass
 
 ## Sobre o projeto
 
@@ -86,14 +98,7 @@ O projeto faz parte da primeira edição do Alura Challange, evento relizado pel
 
 #### VueJS Interface: 
 
-## Tecnologia utilizadas
 
-- Laravel
-- Blade
-- Bootstrap
-- jQuery
-- MySQL
-- Sass
 
 
 
