@@ -1,13 +1,10 @@
 # Share Your Codes - Alura Challange
 
-- Funcionalidades
-![Funcionalidades](funcionalidades.md)
-- Laravel API
-![Laravel API]()
-- VueJS Interface
-![VueJS Interface]()
-- Projeto Full Laravel
-![Full Laravel]()
+
+- [Funcionalidades](funcionalidades.md)
+- [Laravel API]()
+- [VueJS Interface]()
+- [Full Laravel]()
 
 ![editor](https://i.gyazo.com/00ece030b6655ce923bca591e355e8b2.png)
 ![comunidade](https://i.gyazo.com/dc33f4dfa2062f61551465505d20a2fa.png)
