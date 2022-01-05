@@ -26,10 +26,10 @@
 <br>
 <a href="mailto:joaovitorsouzacoura@gmail.com" target="_blank">joaovitorsouzacoura@gmail.com</a>
 
-![editor](https://i.gyazo.com/00ece030b6655ce923bca591e355e8b2.png)
-![comunidade](https://i.gyazo.com/dc33f4dfa2062f61551465505d20a2fa.png)
-![pagina-do-projeto](https://i.gyazo.com/7234d2415ddfebbf737a7537a87bd473.png)
-![user-page](https://i.gyazo.com/c8b861bec97963efbd431509bcaa5795.png)
+![editor](https://i.gyazo.com/19129d091c33d922fe89aee361c1623a.png)
+![comunidade](https://i.gyazo.com/7696ca0a0676521fc1448d64138c7ff2.png)
+![pagina-do-projeto](https://i.gyazo.com/8abe9d44a1b1c4a01fc6df83a5b65e37.png)
+![user-page](https://i.gyazo.com/fa3946706f5b13f49778fa9518b98433.png)
 
 ## Tecnologia utilizadas
 
