@@ -1,6 +1,6 @@
 # Share Your Codes - Alura Challange
 
-<h2>Site: <a href="https://shareyourcodes.com/comunidade">https://shareyourcodes.com/comunidade</a></h2>
+<h3>Acesse o site: <a href="https://shareyourcodes.com/comunidade" target="_blank">https://shareyourcodes.com/comunidade</a></h3>
 
 <ul>
     <li>
@@ -13,20 +13,23 @@
         <a href="https://github.com/jaum1234/share-your-codes-vuejs" target="_blank">VueJS Interface</a>
     </li>
     <li>
+        <a href="deployment.md" target="_blank">Deployment</a>
+    </li>
+    <li>
         <a href="#" target="_blank">Projeto Full Laravel</a>
     </li>
 </ul>
+
+## Contatos
+
+<a href="https://www.linkedin.com/in/joao-v%C3%ADtor-de-souza-coura-b435381a9/" target="_blank">Linkedin</a>
+<br>
+<a href="mailto:joaovitorsouzacoura@gmail.com" target="_blank">joaovitorsouzacoura@gmail.com</a>
 
 ![editor](https://i.gyazo.com/00ece030b6655ce923bca591e355e8b2.png)
 ![comunidade](https://i.gyazo.com/dc33f4dfa2062f61551465505d20a2fa.png)
 ![pagina-do-projeto](https://i.gyazo.com/7234d2415ddfebbf737a7537a87bd473.png)
 ![user-page](https://i.gyazo.com/c8b861bec97963efbd431509bcaa5795.png)
-
-## Contatos
-
-<a href="https://www.linkedin.com/in/joao-v%C3%ADtor-de-souza-coura-b435381a9/">Linkedin</a>
-<br>
-<a href="mailto:joaovitorsouzacoura@gmail.com">joaovitorsouzacoura@gmail.com</a>
 
 ## Tecnologia utilizadas
 
