@@ -1,9 +1,19 @@
 # Share Your Codes - Alura Challange
 
-<a href="funcionalidades.md" target="_blank">Funcionalidades</a>
-<a href="" target="_blank">Laravel API</a>
-<a href="" target="_blank">VueJS Interface</a>
-<a href="" target="_blank">Projeto Full Laravel</a>
+<ul>
+    <li>
+        <a href="funcionalidades.md" target="_blank">Funcionalidades</a>
+    </li>
+    <li>
+        <a href="" target="_blank">Laravel API</a>
+    </li>
+    <li>
+        <a href="" target="_blank">VueJS Interface</a>
+    </li>
+    <li>
+        <a href="" target="_blank">Projeto Full Laravel</a>
+    </li>
+</ul>
 
 ![editor](https://i.gyazo.com/00ece030b6655ce923bca591e355e8b2.png)
 ![comunidade](https://i.gyazo.com/dc33f4dfa2062f61551465505d20a2fa.png)
