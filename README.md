@@ -1,6 +1,6 @@
 # Share Your Codes - Alura Challange
 
-<h3>Acesse o site: <a href="https://shareyourcodes.com/comunidade" target="_blank">https://shareyourcodes.com/comunidade</a></h3>
+<h2>Acesse o site: <a href="https://shareyourcodes.com/comunidade" target="_blank">https://shareyourcodes.com/comunidade</a></h2>
 
 <ul>
     <li>
