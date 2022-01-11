@@ -100,6 +100,20 @@ O projeto faz parte da primeira edição do Alura Challange, evento relizado pel
 7. Acesse o localhost:8000
 
 #### VueJS Interface: 
+1. Clone o repositório
+```
+git clone https://github.com/jaum1234/share-your-codes-vuejs
+```
+
+2. Instale os pacotes
+```
+npm install
+```
+
+3. Rode o servidor
+```
+npm run serve
+```
 
 
 
