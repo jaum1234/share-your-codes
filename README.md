@@ -34,7 +34,7 @@
 ## Tecnologia utilizadas
 
 - Laravel
-- VueJS
+- VueJS & Vuex
 - AWS
 - Bootstrap
 - jQuery
